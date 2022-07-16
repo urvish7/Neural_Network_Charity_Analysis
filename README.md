@@ -60,23 +60,24 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
   ![](https://github.com/urvish7/Neural_Network_Charity_Analysis/blob/main/Resources/ScreenShots/Hidden_node_layer1%3D80_hidden_nodes_layer2%3D30.png)
     
     
-    - Were you able to achieve the target model performance?
+   - Were you able to achieve the target model performance?
     Sol:  No, We able to accomplish 68% of accuraccy.
     
-    - What steps did you take to try and increase model performance?
+   - What steps did you take to try and increase model performance?
     
-    Attempt 1: Removed Noisy Variable only
+   
+ Attempt 1: Removed Noisy Variable only
     
-    ![](https://github.com/urvish7/Neural_Network_Charity_Analysis/blob/main/Resources/ScreenShots/Attpt1.png)
+ ![](https://github.com/urvish7/Neural_Network_Charity_Analysis/blob/main/Resources/ScreenShots/Attpt1.png)
     
-    Attempt 2 - Removing Noisy Variables & Adding additional neurons to the                 hidden layers and hidden layers
+ Attempt 2 - Removing Noisy Variables & Adding additional neurons to the hidden layers and hidden layers
     
-    ![](https://github.com/urvish7/Neural_Network_Charity_Analysis/blob/main/Resources/ScreenShots/Attmpt2.png)
+![](https://github.com/urvish7/Neural_Network_Charity_Analysis/blob/main/Resources/ScreenShots/Attmpt2.png)
     
     
-    Attempt 3 - Removing Noisy Variables, Adding additional neurons to the                   hidden layers and hidden layers & Changing activation to                     tanh
+ Attempt 3 - Removing Noisy Variables, Adding additional neurons to the hidden layers and hidden layers & Changing activation to tanh
     
-    ![](https://github.com/urvish7/Neural_Network_Charity_Analysis/blob/main/Resources/ScreenShots/Attmpt3.png)
+![](https://github.com/urvish7/Neural_Network_Charity_Analysis/blob/main/Resources/ScreenShots/Attmpt3.png)
     
     
 ## Summary:
