@@ -26,10 +26,15 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
  
  
  [AlphabetSoupCharity.ipynb](https://github.com/urvish7/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb)
+ 
  [AlphabetSoupCharity.h5](https://github.com/urvish7/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.h5)
+ 
  [AlphabetSoupCharity_Optimization.ipynb](https://github.com/urvish7/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb)
+ 
  [AlphabetSoupCharity_Optimization_Attempt_1.h5](https://github.com/urvish7/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_Attempt_1.h5)
+ 
  [AlphabetSoupCharity_Optimization_Attempt_2.h5](https://github.com/urvish7/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_Attempt_2.h5)
+ 
  [AlphabetSoupCharity_Optimization_Attempt_3.h5](https://github.com/urvish7/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization_Attempt_3.h5)
  
  
